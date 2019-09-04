@@ -17,7 +17,7 @@ lang: en-US
 title: A Work in Progress
 email: progress@imworkinhere.com
 description: A site trying its best to be professional
-baseurl: /index
+baseurl: 
 url: https://hello-yall.github.io
 author:
   name:
