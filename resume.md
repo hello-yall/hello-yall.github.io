@@ -1,0 +1,2 @@
+title: resume
+layout: cv
