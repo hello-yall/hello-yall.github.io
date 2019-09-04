@@ -2,4 +2,4 @@
 title: "about"
 layout: about
 ---
-From: Richmond, VA
+From: Durham, NC
