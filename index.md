@@ -1,4 +1,5 @@
 ---
 layout: home
 ---
-Welcome!
+## Welcome!
+Poke around and get to know me a bit!
