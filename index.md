@@ -1,5 +1,5 @@
 ---
 layout: home
+alt_title: Welcome!
 ---
-# Welcome!
 Poke around and get to know me a bit!
