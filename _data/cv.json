@@ -10,10 +10,8 @@
          "countryCode":"US",
          "region":"North Carolina"
       },
-
    },
-   "work":[  
-      {  
+   "work":[{  
          "company":"Duke University - Medical Center Library & Archives",
          "position":"User Services and Technical Services Assistant (Senior Library Assistant",
          "startDate":"2017",
@@ -22,22 +20,18 @@
          "highlights":[  
             "Worked with Medical Center Archives to document descriptive metadata for over 100 objects within the MEDSpace open-access digital repository. This repository is powered by Samvera Hyrax, thus this project has given me a good understanding of the workings of open-source IR frameworks."
          ]
-      }
-   ],
-   "education":[  
-      {  
+      }],
+   "education":[{  
          "institution":"North Carolina Central University",
-         "area":"Master of Library Science",
-         "studyType":"Digital Libraries",
+         "area":"Library Science",
+         "studyType":"Masters",
          "startDate":"2017",
          "endDate":"2019",
          "courses":[  
             "DB1101 - Basic SQL"
          ]
-      }
-   ],
-   "skills":[  
-      {  
+      }],
+   "skills":[{  
          "name":"Programming/Languages",
          "keywords":[  
             "HTML",
@@ -45,18 +39,15 @@
             "SQL",
             "JSON",
             "XML",
-            "PHP",
+            "PHP"
 
          ]
-      }
-   ],
-   "languages":[  
-      {  
+      }],
+   "languages":[{  
          "language":"English",
-         "fluency":"Native speaker,"         "language":"Spanish",
-         "fluency":"Beginner",
+         "fluency":"Native speaker,"         
+         "language":"Spanish",
+         "fluency":"Beginner"
 
-      }
-   ],
-
+      }],
 }
