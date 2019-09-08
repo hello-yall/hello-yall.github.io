@@ -34,7 +34,7 @@
   }],
   "education": [{
     "institution": "North Carolina Central University",
-    "title": "Master of Library Science",
+    "degreeType": "Master of Library Science",
     "studyType": "Digital Libraries",
     "startDate": "2017",
     "endDate": "2019",
