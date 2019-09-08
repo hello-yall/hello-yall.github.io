@@ -4,7 +4,7 @@
     "label": "General Librarian Lady",
     "email": "keonbai@gmail.com",
     "website": "https://hello-yall.github.io",
-    "summary": "A summary of John Doe...",
+    "summary": "This resume highlights an overview of current projects and positions. For a full list of my work history, feel free to download a PDF of my resume.",
     "location": {
       "city": "Durham",
       "countryCode": "US",
@@ -33,12 +33,12 @@
     ]
   }],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
+    "institution": "North Carolina Central University",
+    "title": "Master of Library Science",
+    "studyType": "Digital Libraries",
+    "startDate": "2017",
+    "endDate": "2019",
+    "honors": "Summa cum laude",
     "courses": [
       "DB1101 - Basic SQL"
     ]
