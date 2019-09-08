@@ -20,7 +20,7 @@ description: Hello!
 baseurl: 
 url: https://hello-yall.github.io
 author: "Keondra Bailey"
-  picture: /images/IMG_2309.JPG
+  picture: /_images/IMG_2309.JPG
 github_username: "hello-yall"
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: false
