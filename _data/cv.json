@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Keondra Bailey",
-    "label": "Librarian",
+    "label": "General Librarian Lady",
     "email": "keonbai@gmail.com",
     "website": "https://hello-yall.github.io",
     "summary": "A summary of John Doe...",
@@ -12,14 +12,13 @@
     },
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "Duke University - Medical Center Library & Archives",
+    "position": "User Services and Technical Services Assistant (Senior Library Assistant",
+    "startDate": "2017",
+    "endDate": "Present",
+    "summary": "I work with all levels of university constituent groups to provide informational assistance regarding library services, policies, and materials. I work with the Electronic Resources and Acquisitions Manager to troubleshoot issues with subcribed databases and e-resources and interact with vendors to solve technical issues.",
     "highlights": [
-      "Started the company"
+      "Worked with Medical Center Archives to document descriptive metadata for over 100 objects within the MEDSpace open-access digital repository."
     ]
   }],
   "volunteer": [{
