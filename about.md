@@ -17,3 +17,5 @@ If you have any questions, feel free to reach out! My github username is hello-y
 **Favorite shows:** King of the Hill, Rick and Morty, and Laverne and Shirley  
 
 **"What attracted you to libraries?":** I grew up around helpful yet slightly curt librarians, and in my introverted bookworm youth, I saw it as a path where I could assist people and then they would quickly leave me alone. I very quickly found out that was not the case, and what has kept me in libraries is the high level of committment and innovation within the field. I love a challenge, and nothing makes me happier than feeling that I truly accomplished something during my day. Libraries provide me with all that and more.  
+
+![The dog's name is Sputnik, and I love him.](/images/IMG_2309.JPG "Me & Sputnik")
