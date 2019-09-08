@@ -1,51 +1,62 @@
-{
-  "basics": {
-    "name": "Keondra Bailey",
-    "label": "General Librarian Lady",
-    "email": "keonbai@gmail.com",
-    "website": "https://hello-yall.github.io",
-    "summary": "This resume highlights an overview of current projects and positions. For a full list of my work history, feel free to download a PDF of my resume.",
-    "location": {
-      "city": "Durham",
-      "countryCode": "US",
-      "region": "North Carolina"
-    },
-  },
-  "work": [{
-    "company": "Duke University - Medical Center Library & Archives",
-    "position": "User Services and Technical Services Assistant (Senior Library Assistant",
-    "startDate": "2017",
-    "endDate": "Present",
-    "summary": "I work with all levels of university constituent groups to provide informational assistance regarding library services, policies, and materials. I work with the Electronic Resources and Acquisitions Manager to troubleshoot issues with subcribed databases and e-resources and interact with vendors to solve technical issues.",
-    "highlights": [
-      "Worked with Medical Center Archives to document descriptive metadata for over 100 objects within the MEDSpace open-access digital repository. This repository is powered by Samvera Hyrax, thus this project has given me a good understanding of the workings of open-source IR frameworks."
-    ]
-  }],
-    "education": [{
-    "institution": "North Carolina Central University",
-    "area": "Master of Library Science",
-    "studyType": "Digital Libraries",
-    "startDate": "2017",
-    "endDate": "2019",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "skills": [{
-    "name": "Programming/Languages",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "SQL",
-      "JSON",
-      "XML",
-      "PHP"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker,"
-    "language": "Spanish",
-    "fluency": "Beginner,"
-  }],
+{  
+   "basics":{  
+      "name":"Keondra Bailey",
+      "label":"General Librarian Lady",
+      "email":"keonbai@gmail.com",
+      "website":"https://hello-yall.github.io",
+      "summary":"This resume highlights an overview of current projects and positions. For a full list of my work history, feel free to download a PDF of my resume.",
+      "location":{  
+         "city":"Durham",
+         "countryCode":"US",
+         "region":"North Carolina"
+      },
+
+   },
+   "work":[  
+      {  
+         "company":"Duke University - Medical Center Library & Archives",
+         "position":"User Services and Technical Services Assistant (Senior Library Assistant",
+         "startDate":"2017",
+         "endDate":"Present",
+         "summary":"I work with all levels of university constituent groups to provide informational assistance regarding library services, policies, and materials. I work with the Electronic Resources and Acquisitions Manager to troubleshoot issues with subcribed databases and e-resources and interact with vendors to solve technical issues.",
+         "highlights":[  
+            "Worked with Medical Center Archives to document descriptive metadata for over 100 objects within the MEDSpace open-access digital repository. This repository is powered by Samvera Hyrax, thus this project has given me a good understanding of the workings of open-source IR frameworks."
+         ]
+      }
+   ],
+   "education":[  
+      {  
+         "institution":"North Carolina Central University",
+         "area":"Master of Library Science",
+         "studyType":"Digital Libraries",
+         "startDate":"2017",
+         "endDate":"2019",
+         "courses":[  
+            "DB1101 - Basic SQL"
+         ]
+      }
+   ],
+   "skills":[  
+      {  
+         "name":"Programming/Languages",
+         "keywords":[  
+            "HTML",
+            "CSS",
+            "SQL",
+            "JSON",
+            "XML",
+            "PHP",
+
+         ]
+      }
+   ],
+   "languages":[  
+      {  
+         "language":"English",
+         "fluency":"Native speaker,"         "language":"Spanish",
+         "fluency":"Beginner",
+
+      }
+   ],
+
 }
