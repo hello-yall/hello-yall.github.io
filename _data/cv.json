@@ -18,66 +18,34 @@
     "endDate": "Present",
     "summary": "I work with all levels of university constituent groups to provide informational assistance regarding library services, policies, and materials. I work with the Electronic Resources and Acquisitions Manager to troubleshoot issues with subcribed databases and e-resources and interact with vendors to solve technical issues.",
     "highlights": [
-      "Worked with Medical Center Archives to document descriptive metadata for over 100 objects within the MEDSpace open-access digital repository."
+      "Worked with Medical Center Archives to document descriptive metadata for over 100 objects within the MEDSpace open-access digital repository. This repository is powered by Samvera Hyrax, thus this project has given me a good understanding of the workings of open-source IR frameworks."
     ]
   }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
+    "education": [{
     "institution": "North Carolina Central University",
-    "degreeType": "Master of Library Science",
+    "area": "Master of Library Science",
     "studyType": "Digital Libraries",
     "startDate": "2017",
     "endDate": "2019",
-    "honors": "Summa cum laude",
     "courses": [
       "DB1101 - Basic SQL"
     ]
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Programming/Languages",
     "keywords": [
       "HTML",
       "CSS",
-      "Javascript"
+      "SQL",
+      "JSON",
+      "XML",
+      "PHP",
     ]
   }],
   "languages": [{
     "language": "English",
-    "fluency": "Native speaker"
+    "fluency": "Native speaker,"
+    "language": "Spanish",
+    "fluency": "Beginner",
   }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
 }
