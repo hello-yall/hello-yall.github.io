@@ -39,13 +39,13 @@
       "SQL",
       "JSON",
       "XML",
-      "PHP",
+      "PHP"
     ]
   }],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker,"
     "language": "Spanish",
-    "fluency": "Beginner",
+    "fluency": "Beginner,"
   }],
 }
