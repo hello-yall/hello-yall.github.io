@@ -27,8 +27,13 @@
          "studyType":"Masters",
          "startDate":"2017",
          "endDate":"2019",
-         "projects":[  
-            "DB1101 - Basic SQL"
+         "courses":[  
+            "LSIS 5115 - Information Technology and Intellectual Property",
+            "LSIS 5420 - Intro to Digital Libraries",
+            "LSIS 5450 - Digital Preservation",
+            "LSIS 5451 - Database Systems",
+            "LSIS 5425 - Organization of Informaton",
+            "LSIS 5830 - Metadata Applications for Digital Libraries"
          ]
       }],
    "skills":[{  
