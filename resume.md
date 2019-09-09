@@ -4,6 +4,6 @@ layout: cv
 actions:
   - label: "Download PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: "images/resume_sept_2019.pdf"
 ---
 
