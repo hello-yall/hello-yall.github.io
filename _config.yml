@@ -19,9 +19,9 @@ email: "keonbai@gmail.com"
 description: Hello! 
 baseurl: 
 url: https://hello-yall.github.io
-author:
-  name: Keondra Bailey
-  picture: /images/meandsputnik.jpg
+author: Keondra Bailey
+  name: Keondra Bailey (and Sputnik!)
+  picture: https://raw.githubusercontent.com/hello-yall/hello-yall.github.io/master/images/meandsputnik.jpg
 github_username: "hello-yall"
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: false
