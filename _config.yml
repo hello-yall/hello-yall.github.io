@@ -81,3 +81,10 @@ defaults:
     values:
       layout: post
       read_time: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: post
+      read_time: false
