@@ -6,4 +6,4 @@ permalink: /projects/
 collection: projects
 entries_layout: list
 ---
-Sample document listing for the collection `_projects`.
+Mostly projects I've completed as part of my master's degree program (with some work projects if I receive permission to discuss them here). 
