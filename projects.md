@@ -1,7 +1,7 @@
 ---
 title: Projects of Note
 layout: collection
-permalink: /_projects/
+permalink: /projects/
 collection: projects
 entries_layout: grid
 ---
