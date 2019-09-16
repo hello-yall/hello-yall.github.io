@@ -12,6 +12,8 @@ If you have any questions, feel free to reach out! My github username is hello-y
 
 **Interests:** Music, 20th-century history, cars, and Scotland  
 
+**Oh! You meant CAREER interests:** The work I've enjoyed the most comprises the categories of metadata, cataloging, scholarly communications, and digital libraries.  
+
 **Favorite colors:** Pink, red, and **black**.  
 
 **Favorite shows:** King of the Hill, Rick and Morty, and Laverne and Shirley  
