@@ -2,8 +2,8 @@
 title: "Digital Library"
 collection: projects
 image: 
-  path: images/digital-library-thumb01.png
-  thumbnail: images/digital-library-thumb01.png
+  path: images/digital-library-thumb02.png
+  thumbnail: images/digital-library-thumb02.png
   caption: "Front Page of Library of Libraries Digital Library Project"
 ---
 
@@ -80,14 +80,13 @@ div.desc {
 </style>
 </head>
 <body>
-<h2>Responsive Image Gallery</h2>
-<h4>Resize the browser window to see the effect.</h4>
+<h2>Gallery of Digital Library</h2>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://imagizer.imageshack.com/img924/3193/fuwqUs.png">
-      <img src="https://imagizer.imageshack.com/img924/3193/fuwqUs.png" alt="Cinque Terre" width="600" height="400">
+      <img src="https://imagizer.imageshack.com/img924/3193/fuwqUs.png" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Search Results Page with "all fields" search.</div>
   </div>
 </div>
 
@@ -95,33 +94,31 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://imagizer.imageshack.com/img923/2705/t4sVnR.png">
-      <img src="https://imagizer.imageshack.com/img923/2705/t4sVnR.png" alt="Forest" width="600" height="400">
+      <img src="https://imagizer.imageshack.com/img923/2705/t4sVnR.png" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Metadata displayed when hovering over an image.</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img923/2705/t4sVnR.png">
-      <img src="https://imagizer.imageshack.com/img923/2705/t4sVnR.png" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img924/7902/Zh5VEC.png">
+      <img src="https://imagizer.imageshack.com/img924/7902/Zh5VEC.png" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Digital object with full metadata.</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img921/9776/XLSvD1.png">
-      <img src="https://imagizer.imageshack.com/img921/9776/XLSvD1.png" alt="Mountains" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img921/483/HKqusH.png">
+      <img src="https://imagizer.imageshack.com/img921/483/HKqusH.png" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Advanced search within digital object.</div>
   </div>
 </div>
 <div class="clearfix"></div>
 <div style="padding:6px;">
-  <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
-  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
 </div>
 </body>
 </html>
