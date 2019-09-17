@@ -2,8 +2,8 @@
 title: "Digital Library"
 collection: projects
 image: 
-  path: images/library-libraries05.JPG
-  thumbnail: images/library-libraries05.JPG
+  path: images/digital-library-thumb01.png
+  thumbnail: images/digital-library-thumb01.png
   caption: "Front Page of Library of Libraries Digital Library Project"
 ---
 
@@ -84,8 +84,8 @@ div.desc {
 <h4>Resize the browser window to see the effect.</h4>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img924/8650/oFZG7l.jpg">
-      <img src="https://imagizer.imageshack.com/img924/8650/oFZG7l.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img924/3193/fuwqUs.png">
+      <img src="https://imagizer.imageshack.com/img924/3193/fuwqUs.png" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -94,8 +94,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img923/5793/wb3UoR.jpg">
-      <img src="https://imagizer.imageshack.com/img923/5793/wb3UoR.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img923/2705/t4sVnR.png">
+      <img src="https://imagizer.imageshack.com/img923/2705/t4sVnR.png" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -103,8 +103,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img921/9753/a4QjIB.jpg">
-      <img src="https://imagizer.imageshack.com/img921/9753/a4QjIB.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img923/2705/t4sVnR.png">
+      <img src="https://imagizer.imageshack.com/img923/2705/t4sVnR.png" alt="Northern Lights" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -112,8 +112,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img921/1600/2ivxxn.jpg">
-      <img src="https://imagizer.imageshack.com/img921/1600/2ivxxn.jpg" alt="Mountains" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img921/9776/XLSvD1.png">
+      <img src="https://imagizer.imageshack.com/img921/9776/XLSvD1.png" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
