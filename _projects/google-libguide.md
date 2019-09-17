@@ -1,10 +1,10 @@
 ---
-title: "Digital Library"
+title: "LibGuide for Google Collaboration"
 collection: projects
 image: 
-  path: images/digital-library01.png
-  thumbnail: images/digital-library01.png
-  caption: "Front Page of Library of Libraries Digital Library Project"
+  path: images/libguide01.png
+  thumbnail: images/libguide01.png
+  caption: "Landing Page for LibGuide"
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
@@ -83,38 +83,38 @@ div.desc {
 <h2>Gallery of Digital Library</h2>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img924/3193/fuwqUs.png">
-      <img src="https://imagizer.imageshack.com/img924/3193/fuwqUs.png" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img921/4743/LZFwOJ.png">
+      <img src="https://imagizer.imageshack.com/img921/4743/LZFwOJ.png" width="600" height="400">
     </a>
-    <div class="desc">Search Results Page with "all fields" search.</div>
+    <div class="desc">Larger image of the front page.</div>
   </div>
 </div>
 
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img923/2705/t4sVnR.png">
-      <img src="https://imagizer.imageshack.com/img923/2705/t4sVnR.png" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img921/8976/QPPcWe.png">
+      <img src="https://imagizer.imageshack.com/img921/8976/QPPcWe.png" width="600" height="400">
     </a>
-    <div class="desc">Metadata displayed when hovering over an image.</div>
+    <div class="desc">Page for Google Drive.</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img924/7902/Zh5VEC.png">
-      <img src="https://imagizer.imageshack.com/img924/7902/Zh5VEC.png" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img922/6437/HNSeh8.png">
+      <img src="https://imagizer.imageshack.com/img922/6437/HNSeh8.png" width="600" height="400">
     </a>
-    <div class="desc">Digital object with full metadata.</div>
+    <div class="desc">Page for Google Docs.</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="https://imagizer.imageshack.com/img921/483/HKqusH.png">
-      <img src="https://imagizer.imageshack.com/img921/483/HKqusH.png" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img922/7322/pKO3O5.png">
+      <img src="https://imagizer.imageshack.com/img922/7322/pKO3O5.png" width="600" height="400">
     </a>
-    <div class="desc">Advanced search within digital object.</div>
+    <div class="desc">Page for Additional Resources.</div>
   </div>
 </div>
 <div class="clearfix"></div>
