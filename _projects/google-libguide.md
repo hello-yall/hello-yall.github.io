@@ -80,7 +80,7 @@ div.desc {
 </style>
 </head>
 <body>
-<h2>Gallery of Digital Library</h2>
+<h2>LibGuide Images</h2>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="https://imagizer.imageshack.com/img921/4743/LZFwOJ.png">
