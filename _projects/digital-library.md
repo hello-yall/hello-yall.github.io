@@ -84,8 +84,8 @@ div.desc {
 <h4>Resize the browser window to see the effect.</h4>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="images/library-libraries05.JPG">
+      <img src="images/library-libraries05.JPG" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
