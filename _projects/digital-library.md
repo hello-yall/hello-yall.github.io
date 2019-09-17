@@ -117,6 +117,22 @@ div.desc {
     <div class="desc">Advanced search within digital object.</div>
   </div>
 </div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://imagizer.imageshack.com/img921/2264/fN6E3K.png">
+      <img src="https://imagizer.imageshack.com/img921/2264/fN6E3K.png" width="600" height="400">
+    </a>
+    <div class="desc">Descriptive metadata documentation.</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://imagizer.imageshack.com/img921/4393/fkyYLk.png">
+      <img src="https://imagizer.imageshack.com/img921/4393/fkyYLk.png" width="600" height="400">
+    </a>
+    <div class="desc">Descriptive metadata continued and technical metadata.</div>
+  </div>
+</div>
 <div class="clearfix"></div>
 <div style="padding:6px;">
 </div>
