@@ -1,10 +1,9 @@
 ---
-title: "ILS System Review"
+title: "Dublin Core Using XML"
 collection: projects
 image: 
- path: images/artem-maltsev-vgQFlPq8tVQ-unsplash.jpg
- thumbnail: images/artem-maltsev-vgQFlPq8tVQ-unsplash.jpg
- caption: Totally unrelated image, however, this lovely photo is by Artem Maltsev on Unsplash.
+ path: images/smithso-record01.png
+ thumbnail: images/smithso-record01.png
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
