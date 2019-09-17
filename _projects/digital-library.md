@@ -2,9 +2,9 @@
 title: "Digital Library"
 collection: projects
 image: 
-  path: /assets/images/chocolate-chip-cookies-lg.jpg
-  thumbnail: /assets/images/chocolate-chip-cookies-400x200.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: images/library-libraries05.JPG
+  thumbnail: images/library-libraries05.JPG
+  caption: "Front Page of Library of Libraries Digital Library Project"
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
@@ -84,8 +84,8 @@ div.desc {
 <h4>Resize the browser window to see the effect.</h4>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="https://imagizer.imageshack.com/img922/4861/krYb5A.jpg">
+      <img src="https://imagizer.imageshack.com/img922/4861/krYb5A.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
