@@ -1,6 +1,10 @@
 ---
 title: "ILS System Review"
 collection: projects
+image: 
+ path: images/artem-maltsev-vgQFlPq8tVQ-unsplash.jpg
+ thumbnail: images/artem-maltsev-vgQFlPq8tVQ-unsplash.jpg
+ caption: Totally unrelated image, however, this lovely photo is by Artem Maltsev on Unsplash.
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
