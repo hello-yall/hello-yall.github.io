@@ -2,8 +2,8 @@
 title: "Digital Library"
 collection: projects
 image: 
-  path: images/digital-library-thumb02.png
-  thumbnail: images/digital-library-thumb02.png
+  path: images/digital-library01.png
+  thumbnail: images/digital-library01.png
   caption: "Front Page of Library of Libraries Digital Library Project"
 ---
 
