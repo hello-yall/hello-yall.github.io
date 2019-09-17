@@ -2,9 +2,9 @@
 title: "Digital Library"
 collection: projects
 image: 
-  path: /assets/images/chocolate-chip-cookies-lg.jpg
-  thumbnail: /assets/images/chocolate-chip-cookies-400x200.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: images/library-libraries05.JPG
+  thumbnail: images/library-libraries05.JPG
+  caption: "Front Page of Library of Libraries Digital Library Project"
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
