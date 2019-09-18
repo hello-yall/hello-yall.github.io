@@ -12,7 +12,7 @@ image:
 **Tools used and/or resources consulted:**  
 
 ---
-
+XML created for record detailed:
 ~~~
 <dc:dc
 xmlns:dc="http://purl.org/dc/elements/1.1/" 
