@@ -11,6 +11,7 @@ image:
 **Detailed project plan:**  
 **Methods:**  
 **Tools used and/or resources consulted:**  
+
 ---
 <html>
 <head>
