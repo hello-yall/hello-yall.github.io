@@ -6,8 +6,10 @@ image:
  thumbnail: images/artem-maltsev-vgQFlPq8tVQ-unsplash.jpg
  caption: Totally unrelated image, however, this lovely photo is by Artem Maltsev on Unsplash.
 ---
+---
+**Project deliverable:**  
+**Detailed project plan:**  
+**Methods:**  
+**Tools used and/or resources consulted:**  
 
-<script src='/path-to-your-javascript-file/pdfobject.js'></script>
-<script>
-PDFObject.embed("https://github.com/hello-yall/hello-yall.github.io/blob/master/images/OI-system-analysis.pdf");
-</script>
+---
