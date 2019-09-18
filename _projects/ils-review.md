@@ -12,7 +12,7 @@ image:
 **Methods:**  
 **Tools used and/or resources consulted:**  
 
----
+---  
 
 #### Excerpt of Organization of Information - ILS System Review
 
