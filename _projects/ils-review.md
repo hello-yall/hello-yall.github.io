@@ -13,12 +13,7 @@ image:
 **Tools used and/or resources consulted:**  
 
 ---
-<!DOCTYPE html>
-<html>
-<body>
-
-<object width="400" height="400" data="images/OI-system-analysis.pdff">
-</object>
+image: 
+ path: images/OI-system-analysis.pdf
+ thumbnail: images/OI-system-analysis.pdf
  
-</body>
-</html>
