@@ -6,14 +6,12 @@ image:
   thumbnail: images/digital-library01.png
   caption: "Front Page of Library of Libraries Digital Library Project"
 ---
-
 ---
 **Project deliverable:**  
 **Detailed project plan:**  
 **Methods:**  
-**Tools used and/orresources consulted:**  
+**Tools used and/or resources consulted:**  
 ---
-
 <html>
 <head>
 <style>
