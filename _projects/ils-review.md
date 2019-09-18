@@ -13,8 +13,4 @@ image:
 **Tools used and/or resources consulted:**  
 
 ---
-image: 
- path: images/OI-system-analysis.pdf
- thumbnail: images/OI-system-analysis.pdf
----
- 
+![ILS Review](images/OI-system-analysis.pdf "ILS Review")
