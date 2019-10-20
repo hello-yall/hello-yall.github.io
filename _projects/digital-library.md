@@ -38,13 +38,13 @@ div.desc {
   float: left;
   width: 24.99999%;
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1200px) {
   .responsive {
     width: 49.99999%;
     margin: 6px 0;
   }
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1200px) {
   .responsive {
     width: 100%;
   }
